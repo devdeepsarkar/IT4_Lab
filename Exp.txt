@@ -1,0 +1,13 @@
+Exp 1) WAP for checking whether a given number is even number or not.
+Exp 2) WAP to find the largest number among three numbers.
+Exp 3) Create a list and perform the following methods: 1.insert('@') 2.remove(index 2) 3.append(100) 4.length 5.pop() 6.clear
+Exp 4) Create a dictionary and apply the following methods : 1.print the dictionary 2.access items 3.use get() 4.change values 5.use len()
+Exp 5) Write a python program to find factorial of a given number using functions.
+Exp 6) Create a tuple and perform the following methods: 1.Add items 2.length 3.check for item in tuple 4.Access item
+Exp 7) Write a python program to find reverse of an array using 4 different methods.
+Exp 8) Write a python function that takes two lists and returns addition of the two list elements
+Exp 9) Demonstrate a python code to print try, except, else, finally block statement.
+Exp 10) WAP to find multiplication of two numbers using class and object.
+Exp 11) WAP code to check whether the given string is palindrome or not.
+Exp 12) Write a program to count the numbers of characters in the string and store them in a dictionary data structure.
+Exp 13) WAP to use split and join methods in the string.
