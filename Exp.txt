@@ -11,4 +11,5 @@ Exp 10) WAP to find multiplication of two numbers using class and object.
 Exp 11) WAP code to check whether the given string is palindrome or not.
 Exp 12) Write a program to count the numbers of characters in the string and store them in a dictionary data structure.
 Exp 13) WAP to use split and join methods in the string.
-Exp 14)
+Exp 14) Write a program to count frequency of characters in a given file.
+Exp 15) Write a program to compute the number of characters, words and lines in a file.
