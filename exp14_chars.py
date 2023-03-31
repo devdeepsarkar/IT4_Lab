@@ -12,10 +12,6 @@ for char in content:
         chars[char] = 1
         tchars += 1
 
-print(lines)
-print(words)
-print(chars)
 
-print("Total lines:", tlines)
-print("Total words", twords)
+print(chars)
 print("Total chars:", tchars)
