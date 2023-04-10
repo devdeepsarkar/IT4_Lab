@@ -40,3 +40,12 @@ print(chars)
 print("Total lines:", tlines)
 print("Total words", twords)
 print("Total chars:", tchars)
+
+# Output:
+# Enter the file name: file.txt
+# {'This is my file1': 2, 'This is my file2': 2}
+# {'This': 4, 'is': 4, 'my': 4, 'file1': 2, 'file2': 2}
+# {'T': 4, 'h': 4, 'i': 12, 's': 8, ' ': 12, 'm': 4, 'y': 4, 'f': 4, 'l': 4, 'e': 4, '1': 2, '\n': 3, '2': 2}
+# Total lines: 4
+# Total words 16
+# Total chars: 67

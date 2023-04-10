@@ -22,3 +22,13 @@ if srt_rev == srt:
     print("The string is palindrome")
 else:
     print("The string is not palindrome")
+
+# Enter the number: 1234
+# The number is not palindrome
+# Enter the string: radar
+# The string is palindrome
+
+# Enter the number: 12321
+# The number is palindrome
+# Enter the string: random
+# The string is not palindrome

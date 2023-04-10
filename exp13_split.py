@@ -19,3 +19,10 @@ print(str4)
 
 str5 = str2.split(" ", 2)
 print(str5)
+
+# Output:
+# Raj and Hina and Leena and Adi and Ana and
+# Raj and Hina and Leena and Adi and Ana
+# ['Hello', 'welcome', 'to', 'our', 'class']
+# ['Hello', 'welcome', 'to', 'our', 'class']
+# ['Hello', 'welcome', 'to our class']

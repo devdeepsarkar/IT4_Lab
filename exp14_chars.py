@@ -15,3 +15,8 @@ for char in content:
 
 print(chars)
 print("Total chars:", tchars)
+
+# Output:
+# Enter the file name: file.txt
+# {'T': 4, 'h': 4, 'i': 12, 's': 8, ' ': 12, 'm': 4, 'y': 4, 'f': 4, 'l': 4, 'e': 4, '1': 2, '\n': 3, '2': 2}
+# Total chars: 67
